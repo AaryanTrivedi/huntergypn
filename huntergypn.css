@@ -1,0 +1,45 @@
+header{
+		max-width: 1459px;
+		text-align: center;
+}
+header img {
+			max-width: 100%;
+			text-align: center;
+
+
+}
+ h1,h2{
+ 	font-family: cursive;
+ 	font-size: 50px;
+ }
+
+body {
+	background-color: gray;
+	margin: 0;
+}
+li .faces{
+		border-radius: 170px;
+		width: 300px ;
+		border:20px solid #706D6D
+}
+header img {
+
+	border: 30px solid #342E2E;
+}
+p.bahotae{ 
+font-size: 30px;
+ }
+ li.tae{ 
+ font-size: 25px;
+ font-family: monospace; }
+ a:hover{
+ 	color: black;
+ 	opacity: .7;
+ 	background-color: transparent;
+ }
+ a{
+ 	color:white;
+ }
+ footer {
+ 	font-size: 15px;
+ }
